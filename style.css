@@ -13,7 +13,7 @@ a {
 
 }
 
-.text {
+.text-tittle {
     font-size: 18px;
     color: #E5E7EB;
     margin: 0px;
@@ -58,7 +58,7 @@ a {
     gap: 50px;
 }
 
-.header-info {
+.tittle-content {
     text-align: left;
     width: 600px;
 
@@ -79,7 +79,7 @@ a {
     height: 240px;
 }
 
-.sign-up {
+.signup {
     padding: 8px 35px;
     background-color: #3882f6;
     font-size: 18px;
